@@ -21,7 +21,7 @@
 }
 
 body {
-  background-color: #000;
+/*   background-color: #000; */
   color: #fff;
   font-family: kamerik-3d;
 }
@@ -39,7 +39,7 @@ body {
 
 .layers {
   perspective: 10000px;
-  overflow: hidden;
+/*   overflow: hidden; */
 }
 
 .layers__container {
